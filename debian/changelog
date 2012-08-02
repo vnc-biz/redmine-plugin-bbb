@@ -1,0 +1,5 @@
+redmine-plugin-bbb (0.1.2.1-precise3) precise; urgency=low
+
+  * Packaging for Ubuntu precise
+
+ -- Enrico Weigelt, metux IT service <weigelt@metux.de>  Wed, 04 Aug 2012 20:19:13 +0200
